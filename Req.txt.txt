@@ -1,0 +1,4 @@
+Pandas == 3.2
+numpy
+keras
+pip==5.2
